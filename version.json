@@ -1,0 +1,9 @@
+{
+  "aircraft": "X-Aerodynamics M500",
+  "latest_version": "1.1b4",
+  "version_code": 112,
+  "release_date": "2026-09-01",
+  "download_url": "https://x-aviation.com/catalog/m500",
+  "changelog_summary": "Added sound volume sliders, updated transponder digit textures, and improved 3D EFB performance.",
+  "mandatory": false
+}
